@@ -1,0 +1,17 @@
+# Apartmán Donovaly
+
+> Ponúkame Vám na predaj krásny 1 izbový apartmán v apartmánovom komplexe Tatran na Donovaloch. Apartmán je o rozlohe 23,65 m2. Apartmán pozostáva z: vstupná chodba, spálňa so šatníkom a rozkladacím gaučom, kuchyňa a kupelňa spojená s WC. Príjemný výhľad na okolie. Byt sa predáva aj so zariadením.
+
+## Fakta
+- Typ: byt
+- Druh nabídky: predaj
+- Dispozice: 1-izbový
+- Plocha: 23.65 m²
+- Stav: po rekonštrukcii
+- Vlastnictví: osobné
+- Lokalita: Škultétyho, Rimavská Sobota
+- Cena: 94 000 €
+
+## Kontakt
+- Telefon: +421918654735
+- Kancelář: MG real, s. r. o.
